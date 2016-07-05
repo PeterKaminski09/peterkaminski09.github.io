@@ -220,6 +220,14 @@ a:active.footer-link  {color:white; background-color:transparent; text-decoratio
     height:250px;
 }
 
+.both img{
+	background-repeat: no-repeat;
+    background-size: cover;
+    overflow:hidden;
+    width:250px;
+    height:250px;
+}
+
 .wide img {
 	background-repeat: no-repeat;
     background-size: cover;
