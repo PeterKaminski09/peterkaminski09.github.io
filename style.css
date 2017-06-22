@@ -164,11 +164,11 @@ a:active.footer-link  {color:white; background-color:transparent; text-decoratio
     position: relative;
     display: block;
     margin-top: 20px;
-    font-family: 'Exo', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 .bar-horizontal-bar {
     background: #fff;
-    font-family: 'Exo', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     height: 40px;
     line-height: 36px;
     color: #444;
@@ -192,7 +192,7 @@ a:active.footer-link  {color:white; background-color:transparent; text-decoratio
 .roundedImage {
             background-repeat: no-repeat;
             background-size: cover;
-            
+
             overflow:hidden;
             -webkit-border-radius:50px;
             -moz-border-radius:50px;
@@ -236,7 +236,7 @@ a:active.footer-link  {color:white; background-color:transparent; text-decoratio
     height:100px;
 }
 
-h1, h2, h3, h4, h5, a, li{
+h1, h2, h3, h4, h5, a, li, p{
 	font-family: 'Ubuntu', sans-serif;
 }
 
@@ -260,5 +260,3 @@ a:link.dashboard-link  {color:#FFFFFF; background-color:transparent; text-decora
 a:visited.dashboard-link {color:#FFFFFF; background-color:transparent; text-decoration:none}
 a:hover.dashboard-link   {color:#55DDE0; background-color:transparent; text-decoration:underline}
 a:active.dashboard-link {color:#55DDE0; background-color:transparent; text-decoration:underline}
-
-
