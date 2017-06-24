@@ -1,6 +1,6 @@
 
-.pure-menu-horizontal {
-	background-color: #336699;
+.stickynav{
+	background-color: #33658A;
 	position: fixed;
 	z-index: 1000;
 }
