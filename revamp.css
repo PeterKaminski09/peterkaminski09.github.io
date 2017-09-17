@@ -61,6 +61,14 @@ body {
   height: 220px;
 }
 
+.PortfolioItem .PortfolioImage-banjo {
+  display: block;
+  padding-top: 20px;
+  margin: 30px auto;
+  width: 300px;
+  height: 187.5px;
+}
+
 .PortfolioItem .PortfolioImage-studentprogress {
   display: block;
   padding-top: 20px;
