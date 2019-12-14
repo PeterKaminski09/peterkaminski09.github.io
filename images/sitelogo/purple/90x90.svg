@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="107px" viewBox="0 0 128 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>sitelogo/purple/90x90</title>
+    <desc>Created with Sketch.</desc>
+    <g id="London-Tube-Theme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-128.000000, -64.000000)">
+            <g id="sitelogo/purple/90x90" transform="translate(128.000000, 64.000000)">
+                <g id="Group">
+                    <ellipse id="Oval" stroke="#AAADD4" stroke-width="16" cx="65.1851852" cy="53.5" rx="45.3333333" ry="45.5"></ellipse>
+                    <rect id="Rectangle" fill="#CCCEE5" x="0" y="45.1777778" width="128" height="15.4555556"></rect>
+                    <text id="Peter-Kaminski" font-family="Muli-SemiBold, Muli" font-size="16.5925926" font-weight="500" letter-spacing="-0.398222217" fill="#090911">
+                        <tspan x="11.1502222" y="59.8328125">Peter Kaminski</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
