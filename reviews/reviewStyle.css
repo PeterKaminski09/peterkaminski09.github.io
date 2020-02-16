@@ -99,7 +99,7 @@ body{
 }
 a{
     color:#de4c4f;
-    text-decoration:none
+    text-decoration:underline;
 }
 h1{
     font-family:"AvenirNext-Medium";
