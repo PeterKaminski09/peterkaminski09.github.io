@@ -1,15 +1,43 @@
 
 .note-wrapper{
-    max-width:46em;
+    max-width:60%;
     margin:0px auto;
     padding:1.57143em 3.14286em
 }
 
+.reviewList .review {
+	clear: both;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.reviewList .review .image {
+	float: left;
+	width: 250px;
+	height: 200px;
+	background-image: url(Downhill.jpg);
+	background-position: left;
+	background-size: cover;
+	margin-right: 25px;
+}
+
+.subtitle {
+	padding-bottom: 10px;
+}
+
+
 @media (max-width: 600px) {
     .note-wrapper {
+    	max-width: 100%;
         font-size: 18px;
         line-height: 1.8;
         padding: 16px;
+    }
+
+    .reviewList .review .image {
+    	width: 100%;
+    	margin: 10px 0;
+    	float: none;
     }
 }
 
