@@ -35,6 +35,25 @@
 	max-height: 300px;
 }
 
+.navigation {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	padding-bottom: 50px;
+}
+
+.navigation .navigationButton {
+	flex: 1 1 auto;
+}
+
+.navigation .leftAligned {
+	text-align: left;
+}
+
+.navigation .rightAligned {
+	text-align: right;
+}
+
 @media (max-width: 600px) {
     .note-wrapper {
     	max-width: 100%;
