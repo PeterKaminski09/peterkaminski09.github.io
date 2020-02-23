@@ -36,15 +36,8 @@ p {
     margin: 0px;
 }
 
-.site-header {
-    box-sizing: border-box;
-    border-bottom: 2px solid #F0F0F0;
-}
-
 .site-header .site-logo {
-    margin-top: 16px;
-    margin-left: 16px;
-    margin-bottom: 16px;
+    max-width: 128px; 
 }
 
 .skill {

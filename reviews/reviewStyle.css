@@ -1,14 +1,17 @@
 
-.note-wrapper{
+.note-wrapper {
     max-width: 60%;
-    margin:0px auto;
-    padding:1.57143em 3.14286em
+    margin: 0 auto;
+    padding: 1.57143em 3.14286em
 }
 
 .reviewList .review {
-	clear: both;
 	padding-top: 10px;
 	padding-bottom: 10px;
+}
+
+.clear {
+	clear: both;
 }
 
 .reviewList .review .image {
